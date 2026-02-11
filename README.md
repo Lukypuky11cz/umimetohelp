@@ -57,5 +57,8 @@ Bot slouží k přehlednému zobrazení správných odpovědí. Stačí použít
 
 ## Tipy
 
-- Pokud příkazy nevidíš, napiš v kanálu `@bot sync`.
-- Když dekódování selže, bot odpoví chybou.<p align="center">
+- Pokud příkazy nevidíš, napiš v kanálu `@umimetosolver sync` nebo restartuj discord.
+- Pokud chceš poslat zprávu od bota do chatu tak, aby to viděli všichni, napiš `@umimetosolver resend` a bot odešle do veřejného chatu poslední soukromou zprávu, kterou ti poslal
+
+<sub>Disclaimer: Použitím příkazů bota souhlasíš se sbíráním analytických data o používání. Remember that *Big Brother* is **ALWAYS** watching ya 👀</sub>
+
